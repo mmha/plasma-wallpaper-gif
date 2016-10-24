@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Keywords=
+Icon=preferences-desktop-wallpaper
+Name=GIF
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/Wallpaper
+X-KDE-PluginInfo-Name=org.kde.gif
+X-Plasma-MainScript=ui/main.qml
+
+MimeType=image/jpeg;image/png;image/svg+xml;image/svg+xml-compressed;image/bmp;image/gif
+X-Plasma-DropMimeTypes=image/jpeg,image/png,image/svg+xml,image/svg+xml-compressed,image/bmp,image/gif
